@@ -1,6 +1,6 @@
 # Landing page - Let's go, Pikachu
 
-![ ](./pikachu.png)
+![ ](./Zekron.22.png)
 
 ---
 
