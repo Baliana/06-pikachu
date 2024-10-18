@@ -123,3 +123,16 @@ footer{
     transform: translate(-50%, -50%);
     height: 75vh;
 }
+/*TABLET*/
+@media (max-width:960px) {
+
+    body{
+        padding-inline: 32px;
+    }
+    main{
+        justify-content: space-between;
+    }
+    footer{
+        display: none;
+    }
+}
